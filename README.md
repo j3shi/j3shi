@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @j3shi aka Jesse Hirvonen
 - 👀 I’m interested in coding, gaming and computers
 - 🌱 I’m currently studying ICT at Oulu University of Applied Sciences (OAMK)
-- 📫 How to reach me / jhirvn@gmail.com
 - 😄 Pronouns: he/him
 
 <!---
