@@ -5,7 +5,7 @@
 
 - 🔭 My recent project [Bankautomat project](https://github.com/tvt24kmo-project/group_5)
 
-- 🌱 I’m currently learning **Cloud Services, web-applications, Java programming**
+- 🌱 I’m currently learning **Web development**
 
 - 👯 I’m currently working on [My first landing page](https://github.com/j3shi/aurealyx-website)
 
