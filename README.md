@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Web development**
 
-- 👯 I’m currently working on [Codo - The Coding Companion](https://github.com/j3shi/Codo-The-Coding-Companion)
+- 👯 I’m currently working on [Aurealyx - Web Design and Development](https://github.com/j3shi/aurealyx-website)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
