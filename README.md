@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=j3shi&label=Profile%20views&color=0e75b6&style=flat" alt="j3shi" /> </p>
 
-- 🔭 My recent project [Bankautomat project](https://github.com/tvt24kmo-project/group_5)
+- 🔭 My recent project [MadMooseMovies - Web Application Project]([https://github.com/tvt24kmo-project/group_5](https://github.com/Ryhma10/Websovellus-projekti-ryhma-10))
 
-- 🌱 I’m currently learning **Web development**
+- 🌱 I’m currently learning **Mobile development**
 
 - 👯 I’m currently working on [Spotattu](https://github.com/j3shi/spotattu)
 
