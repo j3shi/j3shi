@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jesse Hirvonen</h1>
 <h3 align="center">A passionate Information and Communication Technology (ICT) Engineering Student from Finland</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=j3shi&label=Profile%20views&color=cc8ef5&style=flat" alt="j3shi" /> </p>
+
 - 🔭 My recent project [MadMooseMovies - Web Application Project](https://github.com/Ryhma10/Websovellus-projekti-ryhma-10)
 
 - 🌱 I’m currently learning **Mobile development**
@@ -13,6 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/jesse-hirvonen-333816350" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jesse-hirvonen-333816350" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
