@@ -9,8 +9,6 @@
 
 - 👯 I’m currently working on [Spotattu](https://github.com/j3shi/spotattu)
 
-- 👨‍💻 All of my projects are available at [aurealyx.com](aurealyx.com)
-
 - 📫 How to reach me **jessehirvonen17@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
