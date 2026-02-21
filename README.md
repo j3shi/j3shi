@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Mobile development**
 
-- 👯 I’m currently working on [Spotattu](https://github.com/j3shi/spotattu)
+- 👯 I’m currently working on [KauppaLappu](https://github.com/Mobiilikehitysprojekti-group6/Mobiiliprojekti)
 
 - 📫 How to reach me **jessehirvonen17@gmail.com**
 
