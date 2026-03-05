@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=j3shi&label=Profile%20views&color=cc8ef5&style=flat" alt="j3shi" /> </p>
 
-- 🔭 My recent project [MadMooseMovies - Web Application Project](https://github.com/Ryhma10/Websovellus-projekti-ryhma-10)
+- 🔭 My recent project [KauppaLappu](https://github.com/Mobiilikehitysprojekti-group6/Mobiiliprojekti)
 
 - 🌱 I’m currently learning **Mobile development**
 
-- 👯 I’m currently working on [KauppaLappu](https://github.com/Mobiilikehitysprojekti-group6/Mobiiliprojekti)
+- 👯 I’m currently working on [Spotattu](https://github.com/j3shi/Spotattu)
 
 - 📫 How to reach me **jessehirvonen17@gmail.com**
 
