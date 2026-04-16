@@ -5,7 +5,7 @@
 
 - 🔭 My recent project [KauppaLappu](https://github.com/Mobiilikehitysprojekti-group6/Mobiiliprojekti)
 
-- 🌱 I’m currently learning **Mobile development**
+- 🌱 I’m currently learning **Components of IoT devices and advanced software development techniques**
 
 - 👯 I’m currently working on [Spotattu](https://github.com/j3shi/Spotattu)
 
